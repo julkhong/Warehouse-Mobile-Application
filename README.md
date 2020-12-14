@@ -2,10 +2,8 @@
 This mobile application is built within android studio. This application allows users to keep a record of stock. 
 
 ## Motivation
-The motivation is mainly for learning purposes. This includes UI designs, application logic, interaction between database and application and so on.
+The motivation is mainly for learning purposes. This includes UI designs, examine the proper use of the RecyclerView and CardViews, observe interaction between room database and application (Entities, Repository, ViewModel and LiveData), learn about Content Provider and Resolver and a few more. 
 
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
 
 ## Code style
 No particular code style. But I do follow indentation code style.
