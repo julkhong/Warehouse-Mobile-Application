@@ -1,17 +1,14 @@
-## Project title
-A little info about your project and/ or overview that explains **what** the project is about.
+## Warehouse Mobile Application
+This mobile application is built within android studio. This application allows users to keep a record of stock. 
 
 ## Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
-
-## Build status
-Build status of continus integration i.e. travis, appveyor etc. Ex. - 
+The motivation is mainly for learning purposes. This includes UI designs, application logic, interaction between database and application and so on.
 
 [![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
 
 ## Code style
-If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
+No particular code style. But I do follow indentation code style.
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
