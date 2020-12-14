@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">fit2081 lab 1</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">send</string>
+    <string name="item">enter item</string>
+    <string name="cost">Cost</string>
+    <string name="item_name">Item</string>
+    <string name="description">Description</string>
+    <string name="quantity">Quantity</string>
+    <string name="frozen_item">Frozen Item?</string>
+    <string name="button_no">NO</string>
+    <string name="button_clear">CLEAR ALL ITEMS</string>
+    <string name="button_add">ADD NEW ITEM</string>
+    <string name="No">No</string>
+    <string name="Yes">Yes</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+</resources>

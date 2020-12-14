@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fit2081lab1">
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Warehouse Inventory App"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <provider
+            android:name=".provider.TasksContentProvider"
+            android:authorities="fit2081.app.KHONG"
+            android:enabled="true"
+            android:exported="true"></provider>
+
+        <receiver
+            android:name=".SMSReceiverWeek4"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+        <activity
+            android:name=".loginActivity"
+            android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="sensor">
+        </activity>
+        <activity
+            android:name=".subActivity"
+            android:theme="@style/AppTheme2"></activity>
+    </application>
+
+</manifest>
