@@ -56,6 +56,8 @@ Open your android studio, set up [JDK](https://developer.android.com/about/versi
 ## Tests
 Adding an item, it should appear in the card view database as a card. Deleting an item makes the card view disappear in the database. 
 
+Note: only the source file is shared here.
+
 
 ## Credits
 Credits to Dr Ali for the teaching.  
