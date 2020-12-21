@@ -1,5 +1,5 @@
 ## Gesture-Detector
-A warehouse mobile application that allows user to keep track of stock.
+A warehouse mobile application that allows user to keep track of stock. There are many details in the application like states can be restored after closing application, gesture detection is applied when swiping, supported in landscape mode, automatically fill up the details from SMS receiver and a few more. 
 
 ## Motivation
 The motivation is mainly for learning purposes. This is just part of the learning, the learning includes UI designs, examining the proper use of the RecyclerView and CardViews, observing interaction between room database and application (Entities, Repository, ViewModel and LiveData), learning Content Provider and Resolver and a few more. 
@@ -50,7 +50,7 @@ restart your compute and click next step
 
 
 ## Tests
-Depending on the classes you implement in the main activity. there are classes for double tap, single tap, long press, scroll and many more. As their class names suggest, they do exactly as their name. Hence, in the virtual device you will be able to double tap if you implemented double tap class. 
+Adding an item, it should appear in the card view database as a card. Deleting an item makes the card view disappear in the database. 
 
 
 ## Credits
