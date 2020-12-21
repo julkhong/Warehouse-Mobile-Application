@@ -1,8 +1,8 @@
-## Warehouse Mobile Application
-This mobile application is built within android studio. This application allows users to keep a record of stock. 
+## Gesture-Detector
+A warehouse mobile application that allows user to keep track of stock.
 
 ## Motivation
-The motivation is mainly for learning purposes. This includes UI designs, examine the proper use of the RecyclerView and CardViews, observe interaction between room database and application (Entities, Repository, ViewModel and LiveData), learn about Content Provider and Resolver and a few more. 
+The motivation is mainly for learning purposes. This is just part of the learning, the learning includes UI designs, examining the proper use of the RecyclerView and CardViews, observing interaction between room database and application (Entities, Repository, ViewModel and LiveData), learning Content Provider and Resolver and a few more. 
 
 
 ## Code style
@@ -11,43 +11,58 @@ No particular code style. But I do follow indentation code style.
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
-Include logo/demo screenshot etc.
+<img src="https://user-images.githubusercontent.com/70477671/102744159-1d41bb80-4394-11eb-9bca-8dfb91f6df9e.png" width="700" height="490">
+<img src="https://user-images.githubusercontent.com/70477671/102744167-203cac00-4394-11eb-9bf4-d6c8c433a788.png" width="700" height="490">
+<img src="https://user-images.githubusercontent.com/70477671/102744170-216dd900-4394-11eb-92f2-a021970a6253.png" width="700" height="490">
+
+
 
 ## Tech/framework used
-Ex. -
+Java
 
-<b>Built with</b>
-- [Electron](https://electron.atom.io)
+Android Studio
+
 
 ## Features
-What makes your project stand out?
+Simple implementation and it's beginner friendly.
 
-## Code Example
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 ## Installation
-Provide step by step series of examples and explanations about how to get a development env running.
+### Windows
 
-## API Reference
+1)Install Java
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+click [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and download Java for Windows.
+
+2)Install Android Studio
+
+click on the link below to install Android Studio
+http://developer.android.com/sdk/index.html
+
+3)Install Git
+
+Click on the link
+http://git-scm.com/download/win
+
+4)Final steps
+
+restart your compute and click next step
+
 
 ## Tests
-Describe and show how to run the tests with code examples.
+Depending on the classes you implement in the main activity. there are classes for double tap, single tap, long press, scroll and many more. As their class names suggest, they do exactly as their name. Hence, in the virtual device you will be able to double tap if you implemented double tap class. 
 
-## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
-
-## Contribute
-
-Let people know how they can contribute into your project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
 
 ## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
-
-#### Anything else that seems useful
+Credits to Dr Ali for the teaching.  
+Credits to https://gist.github.com/akashnimare for the amazing README template!
 
 ## License
-A short snippet describing the license (MIT, Apache etc)
+Default license applies here. 
 
-MIT © [Yourname]()
+## Contact
+Created by Jun Ming Khong. 
+Feel free to send me an email!
+ officialkhong@gmail.com 
+
+
