@@ -1,4 +1,4 @@
-## Gesture-Detector
+## Warehouse Mobile Application
 A warehouse mobile application that allows user to keep track of stock. There are many details in the application like states can be restored after closing application, gesture detection is applied when swiping, supported in landscape mode, automatically fill up the details from SMS receiver and a few more. 
 
 ## Motivation
@@ -24,7 +24,7 @@ Android Studio
 
 
 ## Features
-Simple implementation and it's beginner friendly.
+Easy to implement and attention to details. It does require some time to look at them and digest.
 
 
 ## Installation
