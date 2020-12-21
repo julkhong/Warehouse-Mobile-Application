@@ -44,9 +44,13 @@ http://developer.android.com/sdk/index.html
 Click on the link
 http://git-scm.com/download/win
 
-4)Final steps
+4)Next step
 
-restart your compute and click next step
+restart your compute 
+
+5)Android Studio setup
+
+Open your android studio, set up [JDK](https://developer.android.com/about/versions/11/setup-sdk) and [Virtual Device](https://developer.android.com/studio/run/managing-avds)
 
 
 ## Tests
