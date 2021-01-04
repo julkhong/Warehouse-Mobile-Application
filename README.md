@@ -30,25 +30,25 @@ Easy to implement and attention to details. It does require some time to look at
 ## Installation
 ### Windows
 
-1)Install Java
+1) Install Java
 
 click [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and download Java for Windows.
 
-2)Install Android Studio
+2) Install Android Studio
 
 click on the link below to install Android Studio
 http://developer.android.com/sdk/index.html
 
-3)Install Git
+3) Install Git
 
 Click on the link
 http://git-scm.com/download/win
 
-4)Next step
+4) Next step
 
-restart your compute 
+restart your computer 
 
-5)Android Studio setup
+5) Android Studio setup
 
 Open your android studio, set up [JDK](https://developer.android.com/about/versions/11/setup-sdk) and [Virtual Device](https://developer.android.com/studio/run/managing-avds)
 
