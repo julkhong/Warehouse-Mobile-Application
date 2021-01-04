@@ -37,20 +37,20 @@ click [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downlo
 2) Install Android Studio
 
 click on the link below to install Android Studio
-http://developer.android.com/sdk/index.html
+http://developer.android.com/sdk/index.html.
 
 3) Install Git
 
 Click on the link
-http://git-scm.com/download/win
+http://git-scm.com/download/win.
 
 4) Next step
 
-restart your computer 
+restart your computer.
 
 5) Android Studio setup
 
-Open your android studio, set up [JDK](https://developer.android.com/about/versions/11/setup-sdk) and [Virtual Device](https://developer.android.com/studio/run/managing-avds)
+Open your android studio, set up [JDK](https://developer.android.com/about/versions/11/setup-sdk) and [Virtual Device](https://developer.android.com/studio/run/managing-avds).
 
 
 ## Tests
