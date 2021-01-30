@@ -64,7 +64,7 @@ Credits to Dr Ali for the teaching.
 Credits to https://gist.github.com/akashnimare for the amazing README template!
 
 ## License
-Default license applies here. 
+Default license applies here. But feel free to unofficially "reference" to :P .
 
 ## Contact
 Created by Jun Ming Khong. 
