@@ -8,7 +8,6 @@ The motivation is mainly for learning purposes. This is just part of the learnin
 ## Code style
 No particular code style. But I do follow indentation code style.
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/70477671/102744159-1d41bb80-4394-11eb-9bca-8dfb91f6df9e.png" width="700" height="490">
